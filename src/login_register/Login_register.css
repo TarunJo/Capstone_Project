@@ -1,0 +1,22 @@
+#nav {
+    padding-top: 4px;
+    /* background-color: darkgray; */
+}
+
+#log,
+#regs {
+    padding: 1vh 5vw 1vh 5vw;
+    text-decoration: none;
+    color: brown;
+}
+
+#log:hover,
+#regs:hover {
+    /* background-color: skyblue; */
+    color: black;
+}
+
+#regs {
+    padding-top: 4px;
+    background-color: goldenrod;
+}

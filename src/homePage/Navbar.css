@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    background-color: rgb(1, 1, 52);
+    display: flex;
+    /* text-align: center; */
+    flex-direction: row;
+    height: max-content;
+
+}
+
+p{
+    color: yellowgreen;
+    font-size: 25px;
+    padding-top: 1vh;
+}
+
+#name {
+    padding-right: 30vw;
+    padding-left: 40vw;
+}

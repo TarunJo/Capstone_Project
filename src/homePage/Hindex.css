@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+#search {
+    width: 40vw;
+    height: 5vh;
+    /* border-radius: 10px 0px 0px 10px; */
+}
+
+#btn{
+    border-radius: 4px 10px 10px 4px;
+    height: 36px;
+    background-color: grey;
+    color: black;
+}
+
+#btn:hover {
+    background-color: rgb(2, 43, 2);
+    color: white;
+}
+
+#btn:active {
+    background-color: grey;
+    color: black;
+    transform: scale(90%);
+}
+
+#find {
+    display: flex;
+    padding-top: 4vh;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#nameSearch {
+    padding-left:42vw;
+    padding-top: 5vh;
+    color: black;
+    font-style: italic;
+}
